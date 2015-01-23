@@ -1,13 +1,13 @@
 {
   "name": "dummy-npm-bar",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dummy-npm-foo": "git+ssh://git@github.com:BryanDonovan/dummy-npm-foo.git#master"
+    "dummy-npm-foo": "git+ssh://git@github.com:BryanDonovan/dummy-npm-foo.git#2.0.0"
   },
   "repository": {
     "type": "git",
