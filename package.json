@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dummy-npm-buzz": "git+ssh://git@github.com:BryanDonovan/dummy-npm-buzz.git#3.0.0",
-    "dummy-npm-foo": "git+ssh://git@github.com:BryanDonovan/dummy-npm-foo.git#3.0.0"
+    "dummy-npm-buzz": "git+ssh://git@github.com:BryanDonovan/dummy-npm-buzz.git#3.0.0"
   },
   "repository": {
     "type": "git",
